@@ -2,6 +2,7 @@
 Icon: globe
 Tagline: Welcome to Badunicorn Services
 Description: Private Site.
+Image: %assets_url%/main.jpg
 Social:
   paypal : https://paypal.me/mowglixx 
   github : https://github.com/mowglixx
