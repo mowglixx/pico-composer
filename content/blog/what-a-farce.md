@@ -1,10 +1,10 @@
 ---
-Title: Blog
+Title: 2nd post
 Image: %assets_url%/main.jpg
 Tagline: Welcome to Badunicorn Services
 Description: Private Site.
-Placing: 1
-Template: blog-index
+Placing: 2
+Template: blog
 ---
 
 ## header
