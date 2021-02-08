@@ -1,5 +1,5 @@
 ---
-Title: Badunicorn Services
+Title: Home
 Image: %assets_url%/main.jpg
 Tagline: Welcome to Badunicorn Services
 Description: Private Site.
