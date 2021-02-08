@@ -5,7 +5,7 @@ Description: Private Site.
 Placing: 0
 ---
 
-[code](%assets_url%/main.jpg)
+![code](%assets_url%/main.jpg)
 
 # Welcome to BadUnicorn Services
 
