@@ -10,9 +10,9 @@ Placing: 0
 This is the main news site for [badunicorn](%base_url%), if somethings broken and it's not on this site please contact the admin (y'know the bald guy).
 
 ## Services Currently working
-- Minecraft (varying degrees of performance)
+- [Minecraft Panel and servers](https://panel.virtserver.co.uk) (varying degrees of performance)
 - WebServer (I'm sure it's fine)
-- Cloud Storage (Perfec)
+- [Cloud Storage](https://cloud.virtserver.co.uk) (Perfecto)
 
 ## Services Currently broken
 - ~~VPN~~ (ToS of the datacenter)
