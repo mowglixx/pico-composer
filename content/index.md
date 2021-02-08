@@ -4,7 +4,7 @@ Description: Private Site.
 Author: mowglixx
 Date: 2001-04-25
 Robots: noindex,nofollow
-Template: index
+Template: single
 ---
 
 # Welocome to BadUnicorn Services
