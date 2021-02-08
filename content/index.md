@@ -5,8 +5,6 @@ Description: Private Site.
 Placing: 0
 ---
 
-![code](%assets_url%/main.jpg)
-
 # Welcome to BadUnicorn Services
 
 This is the main news site for %base_url%, if somethings broken and it's not on this site please contact the admin (y'know the bald guy).
